@@ -1,5 +1,10 @@
 ---
 applications:
 - name: Onlinelabs
+  buildpacks:
+  - binary_buildpack
+  instances: 0
+  health-check-type: process
   stack: windows
-  command: https://github.com/ashirafumiiro/ConsoleLabService/tree/master/ConsoleServiceTest/bin/Debug/LabService.exe --install --server.urls=http://0.0.0.0:9000
+  command: cmd /c https://github.com/ashirafumiiro/ConsoleLabService/tree/master/ConsoleServiceTest/bin/Debug/LabService.exe 
+  path: bin/release
