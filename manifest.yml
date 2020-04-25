@@ -1,6 +1,8 @@
 ---
 applications:
 - name: Onlinelabs
+  buildpacks:
+  - binary_buildpack
   health-check-type: process
   stack: windows
   command: cmd /c .\ConsoleServiceTest\bin\Debug\LabService.exe --server.urls=http://0.0.0.0:%PORT%
