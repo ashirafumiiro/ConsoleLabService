@@ -1,0 +1,40 @@
+
+Log Entry : 05:04:22  AM Saturday, 25 April 2020
+  :
+  :Attempting Start
+-------------------------------
+
+Log Entry : 07:38:25  AM Saturday, 25 April 2020
+  :
+  :Attempting Start
+-------------------------------
+
+Log Entry : 07:38:25  AM Saturday, 25 April 2020
+  :
+  :Components initialized
+-------------------------------
+
+Log Entry : 07:38:25  AM Saturday, 25 April 2020
+  :
+  :Started lab successfully
+-------------------------------
+
+Log Entry : 07:39:50  AM Saturday, 25 April 2020
+  :
+  :Lab Dispose error: Object reference not set to an instance of an object.
+-------------------------------
+
+Log Entry : 10:33:34  AM Saturday, 25 April 2020
+  :
+  :Attempting Start
+-------------------------------
+
+Log Entry : 10:33:35  AM Saturday, 25 April 2020
+  :
+  :Components initialized
+-------------------------------
+
+Log Entry : 10:33:35  AM Saturday, 25 April 2020
+  :
+  :Started lab successfully
+-------------------------------
