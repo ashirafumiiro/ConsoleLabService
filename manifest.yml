@@ -3,5 +3,5 @@ applications:
 - name: Onlinelabs
   health-check-type: process
   stack: windows
-  command: cmd /c https://github.com/ashirafumiiro/ConsoleLabService/tree/master/ConsoleServiceTest/bin/Debug/LabService.exe 
+  command: https://github.com/ashirafumiiro/ConsoleLabService/tree/master/ConsoleServiceTest/bin/Debug/LabService.exe --install
   path: bin/release
